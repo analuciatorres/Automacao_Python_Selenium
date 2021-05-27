@@ -3,7 +3,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/analuciatorres/Teste_Automatizado_intencao_compra_/blob/master/LICENSE) 
 
 # Sobre o projeto
-Automação de um simplesdownload de  dados públicos do Demosntrativo de Vendas da Magazine Luiza.
+Automação de um simples de download de  dados públicos do Demosntrativo de Vendas da Magazine Luiza.
 Ao acessar o site https://ri.magazineluiza.com.br/ deve clicar em planilha diâmica e fazer o download.
 
 
